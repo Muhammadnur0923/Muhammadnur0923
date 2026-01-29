@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I enjoy solving problems and building useful backend systems
 
 -->
-statistics:
+
 ![Muhammadnur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammadnur0923&show_icons=true&theme=tokyonight)
 
-programming languages:
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadnur0923&layout=compact&theme=tokyonight)
