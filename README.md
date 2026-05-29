@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Muhammadnur0923
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞 I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡️ Fun fact: ...
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning Python
+- 💞 I’m looking to collaborate on IT-PARK UZBEKISTAN
+- 😄 Pronouns: Calm
+
 
 
 
@@ -18,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ komilovmuhammadnur56@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
